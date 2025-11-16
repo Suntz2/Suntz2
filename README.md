@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/900x200/1e1e2f/0077ff?text=Salvador+Soria+-+Estudiante+DAM" alt="Banner" width="100%" />
+  <img src="Banner Junior.png" alt="Banner" width="100%" />
 </p>
 
 <!-- Título -->
